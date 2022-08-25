@@ -6,7 +6,7 @@ Feito por Arthur Alves em colaboração com João Pedro Braun durante o período
 
 O programa contém os métodos: bubbleSort, insertSort, shellSort (via Shell, Knuth, Tokuda e Ciura), quickSort (pivô aleatório ou primeiro elemento), heapSort e countingSort.
 
-Foram usadas as libraries: <iostream>, <vector>, <random>, <ostream> e <sys/time.h>.
+Foram usadas as libraries: <iostream> , <vector> , <random> , <ostream> e <sys/time.h>.
 
 // EN-US
 
@@ -15,4 +15,4 @@ Made by Arthur Alves in collab with João Pedro Braun during the 2022/1 period i
 
 The program contains: bubbleSort, insertSort, shellSort (using Shell, Knuth, Tokuda and Ciura), quickSort (random pivot or the first element), heapSort and counting Sort.
 
-The libraries used were: <iostream>, <vector>, <random>, <ostream> e <sys/time.h>
+The libraries used were: <iostream> , <vector> , <random> , <ostream> e <sys/time.h>
